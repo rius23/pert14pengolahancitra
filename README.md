@@ -71,9 +71,10 @@ plt.show()
 
 ## OUTPUT
 
-![image](https://github.com/alfaza-putra/PengolahanCitra_pert14/assets/129705943/ec3c2f2a-bc43-4f0e-ad7e-2e3d5634eb27)
+![gambar 1](https://github.com/rius23/pert14pengolahancitra/assets/129859832/5233bd60-4ddd-4c89-b593-c0ff627bb1ba)
 
-![image](https://github.com/alfaza-putra/PengolahanCitra_pert14/assets/129705943/81816d1c-367c-4305-a1aa-41cc52492f96)
+![gambar 2](https://github.com/rius23/pert14pengolahancitra/assets/129859832/6e0a505a-df4e-46f7-9ec3-733b510dbf1c)
+
 
 
 
